@@ -1,0 +1,7 @@
+- 👋 Liam2crazy
+- 👀 17 y/o
+- 🌱 Java Dev & Plugin Dev
+- 💞️ I like fish
+- 📫 Insta: liam2crazy | My E-Mail: blyzzaro@gmail.com
+- 😄 FULL MENNN DUDE
+- ⚡ I like p*ssy
