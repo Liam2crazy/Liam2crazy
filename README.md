@@ -1,7 +1,3 @@
-- 👋 Liam2crazy
-- 👀 17 y/o
+- 👋 Liam
+- 👀 18 y/o
 - 🌱 Java Dev & Plugin Dev
-- 💞️ I like fish
-- 📫 Insta: liam2crazy
-- 😄 FULL MENNN DUDE
-- ⚡ I like p*ssy
