@@ -16,9 +16,7 @@ My main focus is **Minecraft plugin development**, especially for **Paper**, **S
 ## 🛠️ Tech Stack
 
 - **Java**
-- **Paper API**
-- **Spigot API**
-- **Bukkit**
+- **Bukkit/Paper API**
 - **MySQL**
 - **Cloud-APIs**
 - **Database-driven backend systems**
@@ -29,7 +27,7 @@ My main focus is **Minecraft plugin development**, especially for **Paper**, **S
 
 I mainly work on:
 
-- **Minecraft plugins for **Paper** and **Spigot**
+- **Minecraft plugins for Paper**
 - **Custom server systems**
 - **Cloud-based solutions with different Cloud-APIs**
 - **Utilities and tools for Minecraft networks**
